@@ -1,3 +1,4 @@
 # analisa_Diagram-Class
 
-## ![diagramclass drawio](https://github.com/Agussetiaa/anlisa_Diagram-Class/assets/115542822/1b1ebdf6-8de1-4385-8bd9-af30bbc3492e)
+![diagramclass drawio](https://github.com/Agussetiaa/anlisa_Diagram-Class/assets/115542822/a6957180-b93a-4c02-b064-d2c63cc1c4e1)
+
